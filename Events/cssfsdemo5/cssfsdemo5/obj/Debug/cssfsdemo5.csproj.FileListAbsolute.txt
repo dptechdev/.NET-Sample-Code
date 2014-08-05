@@ -1,0 +1,7 @@
+C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\cssfsdemo5\cssfsdemo5\bin\Debug\cssfsdemo5.exe
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\bin\Debug\cssfsdemo5.exe.config
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\bin\Debug\cssfsdemo5.exe
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\bin\Debug\cssfsdemo5.pdb
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\obj\Debug\cssfsdemo5.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\obj\Debug\cssfsdemo5.exe
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Events\cssfsdemo5\cssfsdemo5\obj\Debug\cssfsdemo5.pdb

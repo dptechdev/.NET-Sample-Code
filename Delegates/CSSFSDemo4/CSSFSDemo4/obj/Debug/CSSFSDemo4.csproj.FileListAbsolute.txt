@@ -1,0 +1,6 @@
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.exe.config
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.exe
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\bin\Debug\CSSFSDemo4.pdb
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.exe
+C:\Users\D-Roc\Desktop\Pluralsight Source Code\C# from Scratch 2\3-csharp-fs-part2-m3-exercise-files\Code\Delegates\CSSFSDemo4\CSSFSDemo4\obj\Debug\CSSFSDemo4.pdb

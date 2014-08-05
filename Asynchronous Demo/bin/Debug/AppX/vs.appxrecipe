@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JESSE</Machine>
+    <WindowsUser>liberty</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6B2578FE124106398F00EF1BE80F7ADCA3BFEB9ECFC3CCC2B2E453ED587AA8D5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cfb78815-6d54-46de-98a0-76443d335379_1.0.0.0_neutral__rcvxbxh3zgyc8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cfb78815-6d54-46de-98a0-76443d335379_rcvxbxh3zgyc8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cfb78815-6d54-46de-98a0-76443d335379</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=liberty</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-02T12:44:45.807</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\Asynchronous Demo.exe">
+      <PackagePath>Asynchronous Demo.exe</PackagePath>
+      <Modified>2013-08-02T12:44:45.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\Asynchronous Demo.pdb">
+      <PackagePath>Asynchronous Demo.pdb</PackagePath>
+      <Modified>2013-08-02T12:44:45.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-08-02T12:37:39.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T20:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-08-02T12:38:31.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liberty\Documents\Visual Studio 2012\Projects\cssfs2\Asynchronous Demo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-02T12:44:45.717</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
