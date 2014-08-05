@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK</Machine>
+    <WindowsUser>D-Roc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c6914211-360b-4015-bf74-aca4275b1b31</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>81039B23FF9684F02ACA100C802864AEDB30ABD8C3A537E4BC6C5145354DA21D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c6914211-360b-4015-bf74-aca4275b1b31_1.0.0.0_neutral__kdebk0b7zy0pw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c6914211-360b-4015-bf74-aca4275b1b31_kdebk0b7zy0pw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c6914211-360b-4015-bf74-aca4275b1b31</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D-Roc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-27T14:22:35.633</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\LocalFolderSample.exe">
+      <PackagePath>LocalFolderSample.exe</PackagePath>
+      <Modified>2014-06-27T14:22:35.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-06-27T12:47:46.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-27T14:22:35.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-27T14:22:35.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\LocalFolderSample.xr.xml">
+      <PackagePath>LocalFolderSample.xr.xml</PackagePath>
+      <Modified>2014-06-27T14:17:05.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\LocalFolderSample\LocalFolderSample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-27T14:22:35.575</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

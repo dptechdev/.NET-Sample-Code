@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK</Machine>
+    <WindowsUser>D-Roc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0ddcab74-5a28-44d8-aedc-bdca2e7b593e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C5E84EA496694A23206E7BE0F9778A47B9A44916E0A239CD652D0264FD5E8EE2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0ddcab74-5a28-44d8-aedc-bdca2e7b593e_1.0.0.0_neutral__kdebk0b7zy0pw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0ddcab74-5a28-44d8-aedc-bdca2e7b593e_kdebk0b7zy0pw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0ddcab74-5a28-44d8-aedc-bdca2e7b593e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D-Roc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-25T12:19:20.614</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\Controls14.exe">
+      <PackagePath>Controls14.exe</PackagePath>
+      <Modified>2014-06-25T12:19:20.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-25T12:19:20.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-25T12:19:20.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\Controls14.xr.xml">
+      <PackagePath>Controls14.xr.xml</PackagePath>
+      <Modified>2014-06-25T12:19:20.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls14\Controls14\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-25T12:19:20.577</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

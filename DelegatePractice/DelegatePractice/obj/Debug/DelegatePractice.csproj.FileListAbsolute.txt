@@ -1,0 +1,6 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\bin\Debug\DelegatePractice.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\DelegatePractice\DelegatePractice\obj\Debug\DelegatePractice.csprojResolveAssemblyReference.cache

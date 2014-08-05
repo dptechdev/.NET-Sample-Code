@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK</Machine>
+    <WindowsUser>D-Roc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>94637e2d-d351-4b78-9402-ac5b4c72bedf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9922559934877C587508974B2611AF9E5B7C25E80D8DCD54BE5A505266E068E9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>94637e2d-d351-4b78-9402-ac5b4c72bedf_1.0.0.0_neutral__kdebk0b7zy0pw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>94637e2d-d351-4b78-9402-ac5b4c72bedf_kdebk0b7zy0pw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>94637e2d-d351-4b78-9402-ac5b4c72bedf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D-Roc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-25T12:00:12.846</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\Controls6s.exe">
+      <PackagePath>Controls6s.exe</PackagePath>
+      <Modified>2014-06-25T12:02:46.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-25T12:00:12.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-25T12:02:46.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\Controls6s.xr.xml">
+      <PackagePath>Controls6s.xr.xml</PackagePath>
+      <Modified>2014-06-25T12:02:46.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\Controls6s\Controls6s\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-25T12:00:12.803</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

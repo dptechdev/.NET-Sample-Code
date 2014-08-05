@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\d-roc\documents\visual studio 2013\projects\contactmanager\contactmanager.windowsstore\obj\debug\intermediatexaml\contactmanager.windowsstore.exe" HashGuid="7f279ae2-1cf2-0770-b24e-221d3bfdfa61" />
+    <ReferenceAssembly PathName="c:\users\d-roc\documents\visual studio 2013\projects\contactmanager\packages\newtonsoft.json.4.5.11\lib\winrt45\newtonsoft.json.dll" HashGuid="962eab9d-2610-3ee3-6c11-2f3bc9a70fed" />
+    <ReferenceAssembly PathName="c:\users\d-roc\documents\visual studio 2013\projects\contactmanager\packages\microsoft.net.http.2.2.13\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\d-roc\documents\visual studio 2013\projects\contactmanager\packages\microsoft.aspnet.webapi.client.5.1.2\lib\portable-wp8+netcore45+net45\system.net.http.formatting.dll" HashGuid="111ccc57-4ae9-d477-8dc9-cc864b59bd76" />
+    <ReferenceAssembly PathName="c:\users\d-roc\documents\visual studio 2013\projects\contactmanager\packages\microsoft.net.http.2.2.13\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

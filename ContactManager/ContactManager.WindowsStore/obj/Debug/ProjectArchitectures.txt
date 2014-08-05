@@ -1,0 +1,1 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\ContactManager\ContactManager.WindowsStore\ContactManager.WindowsStore.csproj;neutral

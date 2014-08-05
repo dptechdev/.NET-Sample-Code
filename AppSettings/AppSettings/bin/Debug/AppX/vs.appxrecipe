@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK</Machine>
+    <WindowsUser>D-Roc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c8e12738-6de0-47cd-adf4-d08b2bb82885</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6F1D298A37140810E1BFA7A11687D2BAC89171071E0877D60D002A4ED43FEC14</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c8e12738-6de0-47cd-adf4-d08b2bb82885_1.0.0.0_neutral__kdebk0b7zy0pw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c8e12738-6de0-47cd-adf4-d08b2bb82885_kdebk0b7zy0pw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c8e12738-6de0-47cd-adf4-d08b2bb82885</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D-Roc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-26T22:37:06.165</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\AppSettings.exe">
+      <PackagePath>AppSettings.exe</PackagePath>
+      <Modified>2014-06-26T22:37:06.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-26T22:35:16.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-26T22:35:16.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\AppSettings.xr.xml">
+      <PackagePath>AppSettings.xr.xml</PackagePath>
+      <Modified>2014-06-26T22:35:16.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\AppSettings\AppSettings\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-26T22:37:06.129</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

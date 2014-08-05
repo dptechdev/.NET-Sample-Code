@@ -1,0 +1,74 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.dll.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\WebActivator.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.Domain.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.Domain.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.csprojResolveAssemblyReference.cache
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.dll.config
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.UnitTests.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Moq.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.Domain.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\WebActivator.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.Domain.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.WebUI.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Moq.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.Razor.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb

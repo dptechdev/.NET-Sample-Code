@@ -1,0 +1,8 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\bin\Debug\RobotBuilderConsole.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\bin\Debug\RobotBuilderConsole.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\bin\Debug\RobotBuilderConsole.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\obj\Debug\RobotBuilderConsole.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\obj\Debug\RobotBuilderConsole.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\obj\Debug\RobotBuilderConsole.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\obj\Debug\RobotBuilderConsole.Form1.resources
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderConsole\RobotBuilderConsole\obj\Debug\RobotBuilderConsole.csproj.GenerateResource.Cache

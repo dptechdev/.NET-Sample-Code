@@ -1,0 +1,6 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\bin\Debug\@delegate.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\bin\Debug\@delegate.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\bin\Debug\@delegate.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\obj\Debug\delegate.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\obj\Debug\@delegate.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\delegate\delegate\obj\Debug\@delegate.pdb

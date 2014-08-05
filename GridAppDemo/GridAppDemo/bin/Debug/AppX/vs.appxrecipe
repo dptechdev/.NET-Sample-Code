@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DEREK</Machine>
+    <WindowsUser>D-Roc</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3a2afaf3-0989-41ea-9aaa-d2f05a0cd260</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>04100FA0878A52FD2869E25FFF5AF855E1543D928B7BA7A778305932FB7EC27C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3a2afaf3-0989-41ea-9aaa-d2f05a0cd260_1.0.0.0_neutral__kdebk0b7zy0pw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3a2afaf3-0989-41ea-9aaa-d2f05a0cd260_kdebk0b7zy0pw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3a2afaf3-0989-41ea-9aaa-d2f05a0cd260</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D-Roc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-26T18:43:49.351</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\GridAppDemo.exe">
+      <PackagePath>GridAppDemo.exe</PackagePath>
+      <Modified>2014-06-26T18:43:49.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-06-26T18:43:35.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-26T18:43:49.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2014-06-26T18:43:49.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2014-06-26T18:43:49.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+      <Modified>2014-06-26T18:43:49.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\GridAppDemo.xr.xml">
+      <PackagePath>GridAppDemo.xr.xml</PackagePath>
+      <Modified>2014-06-26T18:43:48.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\GridAppDemo\GridAppDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-26T18:43:49.258</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

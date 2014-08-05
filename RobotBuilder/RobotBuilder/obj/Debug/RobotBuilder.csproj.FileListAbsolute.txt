@@ -1,0 +1,9 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\bin\Debug\RobotBuilder.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\MainWindow.baml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\MainWindow.g.cs
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\App.g.cs
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder_MarkupCompile.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.g.resources
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.Properties.Resources.resources
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilder\RobotBuilder\obj\Debug\RobotBuilder.csproj.GenerateResource.Cache

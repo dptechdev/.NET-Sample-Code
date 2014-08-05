@@ -1,0 +1,5 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\simpleLinq\simpleLinq\bin\Debug\simpleLinq.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\simpleLinq\simpleLinq\bin\Debug\simpleLinq.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\simpleLinq\simpleLinq\bin\Debug\simpleLinq.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\simpleLinq\simpleLinq\obj\Debug\simpleLinq.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\simpleLinq\simpleLinq\obj\Debug\simpleLinq.pdb

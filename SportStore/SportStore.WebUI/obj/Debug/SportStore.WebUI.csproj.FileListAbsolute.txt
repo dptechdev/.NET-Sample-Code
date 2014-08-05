@@ -1,0 +1,72 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Moq.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\WebActivator.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Moq.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\SportStore.Domain.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\SportStore.Domain.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll.config
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\SportStore.WebUI.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Moq.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\SportStore.Domain.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\WebActivator.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\SportStore.Domain.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Moq.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Common.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Razor.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Helpers.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\bin\System.Web.Mvc.xml
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.csprojResolveAssemblyReference.cache
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
+F:\VS 2013 projects\Visual Studio 2013 Projects 2\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb

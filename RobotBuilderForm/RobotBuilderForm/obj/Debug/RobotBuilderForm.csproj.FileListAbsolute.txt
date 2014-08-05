@@ -1,0 +1,8 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\bin\Debug\RobotBuilderForm.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\obj\Debug\RobotBuilderForm.Form1.resources
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\obj\Debug\RobotBuilderForm.Properties.Resources.resources
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\obj\Debug\RobotBuilderForm.csproj.GenerateResource.Cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\bin\Debug\RobotBuilderForm.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\bin\Debug\RobotBuilderForm.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\obj\Debug\RobotBuilderForm.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\RobotBuilderForm\RobotBuilderForm\obj\Debug\RobotBuilderForm.pdb

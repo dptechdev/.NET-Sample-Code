@@ -1,0 +1,6 @@
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\bin\Debug\factoryPattern.exe.config
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\bin\Debug\factoryPattern.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\bin\Debug\factoryPattern.pdb
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\obj\Debug\factoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\obj\Debug\factoryPattern.exe
+C:\Users\D-Roc\Documents\Visual Studio 2013\Projects\factoryPattern\factoryPattern\obj\Debug\factoryPattern.pdb
